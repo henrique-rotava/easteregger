@@ -4,7 +4,7 @@ A simple JS snippet that allows you to create key sequence based easter eggs
 Usage
 ------
 
-The easter object has an egg function that accepets two params, the key sequence and a callback.
+The easter object has an egg function that accepts two parameters, the key sequence and a callback.
 
 The key sequence can be an array of key names or a string representing a word.
 
